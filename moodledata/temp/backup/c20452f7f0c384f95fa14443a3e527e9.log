@@ -1,0 +1,19 @@
+[Wed 29 Sep 2021 12:18:23 +03] [info] instantiating backup controller c20452f7f0c384f95fa14443a3e527e9
+[Wed 29 Sep 2021 12:18:23 +03] [debug] setting controller status to 100
+[Wed 29 Sep 2021 12:18:23 +03] [debug] loading controller plan
+[Wed 29 Sep 2021 12:18:23 +03] [debug] setting controller status to 300
+[Wed 29 Sep 2021 12:18:23 +03] [debug] applying plan defaults
+[Wed 29 Sep 2021 12:18:23 +03] [debug] setting controller status to 400
+[Wed 29 Sep 2021 12:18:23 +03] [debug] setting file inclusion to 
+[Wed 29 Sep 2021 12:18:23 +03] [info] checking plan security
+[Wed 29 Sep 2021 12:18:23 +03] [debug] setting controller status to 700
+[Wed 29 Sep 2021 12:18:23 +03] [debug] saving controller to db
+[Wed 29 Sep 2021 12:18:23 +03] [debug] calculating controller checksum 090f97fb97bb73f444e1dee129f21725
+[Wed 29 Sep 2021 12:18:23 +03] [debug] loading controller from db
+[Wed 29 Sep 2021 12:18:23 +03] [debug] setting file inclusion to 1
+[Wed 29 Sep 2021 12:18:23 +03] [debug] setting controller status to 800
+[Wed 29 Sep 2021 12:18:23 +03] [debug] saving controller to db
+[Wed 29 Sep 2021 12:18:23 +03] [debug] calculating controller checksum fa0c6ba07144a70b0d5e7ba13d9e81b7
+[Wed 29 Sep 2021 12:18:23 +03] [debug] loading controller from db
+[Wed 29 Sep 2021 12:18:23 +03] [debug] setting controller status to 1000
+[Wed 29 Sep 2021 12:18:23 +03] [debug] saving controller to db

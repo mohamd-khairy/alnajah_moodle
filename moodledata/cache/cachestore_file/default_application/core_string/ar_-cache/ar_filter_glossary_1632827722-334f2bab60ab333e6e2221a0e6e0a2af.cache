@@ -1,0 +1,1 @@
+a:4:{s:16:"glossarycategory";s:45:"{$a->glossary}: التصنيف {$a->category}";s:15:"glossaryconcept";s:29:"{$a->glossary}: {$a->concept}";s:10:"filtername";s:40:"الربط التلقائي للمسرد";s:16:"privacy:metadata";s:93:"ملحق الربط التلقائي للمسرد لا يخزن أي بيانات شخصية.";}

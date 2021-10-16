@@ -1,0 +1,7 @@
+a:4:{s:18:"allowedsourceslist";s:36:"المصادر المسموح بها";s:22:"allowedsourceslistdesc";s:506:"قائمة بالروابط التي يمكن منها للمستخدمين تضمين محتوى H5P. إذا لم يتم تحديد أحدها، ستبقى كل الروابط كما هي ولن يتم عرضها بمثابة محتوى H5P مضمن.
+
+'[id]' هو عنصر نائب لمُعرَّف محتوى H5P في المصدر الخارجي.
+على سبيل المثال:
+
+- H5P.com: https://[xxxxxx].h5p.com/content/[id]
+- Wordpress: http://myserver/wp-admin/admin-ajax.php?action=h5p_embed&id=[id]";s:10:"filtername";s:12:"عارض H5P";s:16:"privacy:metadata";s:70:"إن منقح عارض H5P لا يخزن أي بيانات شخصية.";}
